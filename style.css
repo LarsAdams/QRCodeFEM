@@ -18,10 +18,9 @@ body {
 }
 
 img {
-    margin-bottom: 24px;
     border-radius: 10px;
     max-width: 288px;
-    padding: 16px 16px 16px;
+    margin: 16px 16px 24px 16px;
 }
 
 h1 {
